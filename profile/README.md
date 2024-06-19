@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">Selamat Bergabung di Arto Digital!</h1>
+
 ## Tentang Arto Digital
 
 Selamat datang di GitHub Organization resmi **Arto Digital**! Senang sekali bisa menyambut Anda sebagai bagian dari **Arto Digital**. Di **Arto Digital**, misi kita adalah memberikan solusi digital berkualitas tinggi yang mampu meningkatkan kinerja dan potensi pelanggan kita. Mari kita bersama-sama menciptakan inovasi dan kesuksesan!
