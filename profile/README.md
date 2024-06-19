@@ -1,5 +1,5 @@
 
-![Arto Digital](./Arto Digital Gradient 2.png)
+![Arto Digital](./arto_logo.png)
 # Welcome to Arto Digital!
 
 ## About Us
