@@ -1,56 +1,58 @@
-# Welcome to Arto Digital!
+
 <p align="center">
   <img src="./arto_logo.png" alt="Arto Digital">
 </p>
-## About Us
 
-Welcome to the official GitHub organization of **Arto Digital**! As a valued member of our team, you are part of a group of passionate developers, designers, and innovators dedicated to creating cutting-edge digital solutions. Our mission is to deliver high-quality software and digital experiences that empower businesses and individuals to achieve their goals.
+<h1 align="center">Selamat Bergabung di Arto Digital!</h1>
+## Tentang Arto Digital
 
-## Getting Started
+Selamat datang di GitHub Organization resmi **Arto Digital**! Senang sekali bisa menyambut Anda sebagai bagian dari **Arto Digital**. Di **Arto Digital**, misi kita adalah memberikan solusi digital berkualitas tinggi yang mampu meningkatkan kinerja dan potensi pelanggan kita. Mari kita bersama-sama menciptakan inovasi dan kesuksesan!
 
-To help you get started, here's a quick guide on how to navigate our GitHub organization:
+## Permulaan
 
-1. **Explore Our Repositories**: Familiarize yourself with our various projects. Each repository contains detailed documentation to help you understand its purpose and how it works.
-2. **Accessing Repositories**: Ensure you have the necessary permissions to access the repositories relevant to your work. If you need access to a specific repository, please contact your project lead.
-3. **Setting Up Your Environment**: Follow the setup instructions provided in each repository to get your development environment up and running.
+Untuk memulai, Anda bisa melakukan beberapa hal berikut:
 
-## Best Practices
+1. **Jelajahi Repositori**: Setiap repositori memiliki dokumentasi rinci untuk membantu Anda memahami tujuan dan cara kerjanya.
+2. **Mengakses Repositori**: Pastikan Anda memiliki izin yang diperlukan untuk mengakses repositori yang relevan dengan pekerjaan Anda. Jika Anda memerlukan akses ke repositori tertentu, atau mendapatkan akses yang salah silakan hubungi project lead Anda.
+3. **Menyiapkan Environtement Anda**: Ikuti instruksi penyiapan yang disediakan di setiap repositori untuk memulai development environtment Anda.
 
-To maintain the quality and consistency of our work, please adhere to the following best practices:
+## Best Practice
 
-- **Code Quality**: Write clean, readable, and maintainable code. Follow the coding standards outlined in our [Coding Guidelines](CODING_GUIDELINES.md).
-- **Documentation**: Document your code and any changes you make. Good documentation helps others understand your work and makes collaboration easier.
-- **Commit Messages**: Write clear and concise commit messages. Follow the [Commit Message Guidelines](COMMIT_GUIDELINES.md) to ensure consistency.
-- **Pull Requests**: Before submitting a pull request, make sure your code has been reviewed and tested. Provide a clear description of the changes and any related issues.
+Untuk menjaga kualitas dan konsistensi pekerjaan kita, harap ikuti best practice berikut:
 
-## Collaboration and Communication
+- **Kualitas Kode**: Tulis kode yang bersih, mudah dibaca, dan mudah dipelihara. Ikuti standar pengkodean yang diuraikan dalam [Coding Guideline](CODING_GUIDELINES.md) kami.
+- **Dokumentasi**: Dokumentasikan kode Anda dan setiap perubahan yang Anda buat. Dokumentasi yang baik membantu orang lain memahami pekerjaan Anda dan memudahkan kolaborasi.
+- **Pesan Commit**: Tulis pesan commit yang jelas dan ringkas. Ikuti [Panduan Pesan Commit](COMMIT_GUIDELINES.md) untuk memastikan konsistensi.
+- **Pull Request**: Sebelum mengajukan pull request, pastikan kode Anda telah ditinjau dan diuji. Berikan deskripsi yang jelas tentang perubahan dan masalah terkait.
 
-Effective collaboration and communication are key to our success. Here are some tools and practices we use:
+## Kolaborasi dan Komunikasi
 
-- **Slack**: Our primary communication tool for real-time collaboration. Join the relevant channels for your projects.
-- **Jira**: Used for project management and tracking tasks. Ensure your tasks are updated regularly.
-- **Meetings**: Regular team meetings are scheduled to discuss progress, challenges, and plans. Please attend these meetings and be prepared to share updates.
+Kolaborasi dan komunikasi yang efektif adalah kunci kesuksesan kita. Berikut adalah beberapa tools yang kita gunakan:
 
-## Learning and Development
+- **Discord**: Alat komunikasi utama kita untuk kolaborasi secara real-time. Bergabunglah dengan channel yang sesuai dengan proyek atau divisi Anda.
+- **Github Project**: Digunakan untuk manajemen proyek dan tracing task. Pastikan Anda meng-update status task secara berkala.
+- **Daily Stand Up**: Rapat tim rutin yang dijadwalkan setiap hari selama **maksimal 5 menit** untuk membahas progress pekerjaan, rencana, dan tantangan. Harap hadir pada rapat-rapat ini dan siapkan informasi.
 
-At Arto Digital, we value continuous learning and development. Here are some resources to help you grow:
+## Pembelajaran dan Pengembangan (coming soon)
 
-- **Training Programs**: Access our internal training programs to enhance your skills.
-- **Mentorship**: Connect with a mentor for guidance and support in your professional development.
-- **Knowledge Base**: Explore our knowledge base for tutorials, articles, and best practices.
+Di Arto Digital, pembelajaran dan pengembangan berkelanjutan merupakan hal yang berharga. Berikut adalah beberapa sumber daya untuk membantu Anda berkembang:
 
-## Support and Resources
+- **Program Pelatihan**: Akses program pelatihan internal untuk meningkatkan keterampilan Anda.
+- **Mentorship**: Terhubung dengan mentor untuk mendapatkan bimbingan dan dukungan dalam pengembangan profesional Anda.
+- **Basis Pengetahuan**: Jelajahi basis pengetahuan untuk tutorial, artikel, dan praktik terbaik.
 
-If you need any assistance, don’t hesitate to reach out:
+## Dukungan dan Sumber Daya
 
-- **Technical Support**: Contact the DevOps team at devops@artodigital.com for technical issues.
-- **HR Support**: For HR-related queries, email hr@artodigital.com.
-- **General Inquiries**: For any other questions, reach out to your team lead or the relevant department.
+Jika Anda memerlukan bantuan, jangan ragu untuk menghubungi:
 
-## Welcome Aboard!
+- **Dukungan Teknis**: Hubungi tim DevOps di admin@artodigital.biz.id untuk masalah teknis.
+- **Dukungan HR**: Untuk pertanyaan terkait HR, email hr@artodigital.biz.id.
+- **Pertanyaan Umum**: Untuk pertanyaan lainnya, silakan hubungi team leader Anda atau departemen terkait.
 
-We’re excited to have you on the team and look forward to achieving great things together. Thank you for being a part of Arto Digital!
+## Selamat Bergabung!
+
+Saya senang memiliki Anda di tim dan berharap dapat mencapai hal-hal hebat bersama. Terima kasih telah menjadi bagian dari Arto Digital!
 
 ---
-
-Arto Digital Team
+Regen
+Founder Arto Digital
