@@ -1,7 +1,7 @@
-
-![Arto Digital](./arto_logo.png)
 # Welcome to Arto Digital!
-
+<p align="center">
+  <img src="./arto_logo.png" alt="Arto Digital">
+</p>
 ## About Us
 
 Welcome to the official GitHub organization of **Arto Digital**! As a valued member of our team, you are part of a group of passionate developers, designers, and innovators dedicated to creating cutting-edge digital solutions. Our mission is to deliver high-quality software and digital experiences that empower businesses and individuals to achieve their goals.
