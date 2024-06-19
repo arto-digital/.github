@@ -55,5 +55,5 @@ Jika Anda memerlukan bantuan, jangan ragu untuk menghubungi:
 Saya senang memiliki Anda di tim dan berharap dapat mencapai hal-hal hebat bersama. Terima kasih telah menjadi bagian dari Arto Digital!
 
 ---
-Regen
+Regen <br/>
 Founder Arto Digital
